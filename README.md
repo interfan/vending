@@ -28,4 +28,6 @@ You can insert 0.5 / 1 / 2 dollar coins
 15 products are generated
 We have 1 fixed window for vending controls and 1 fixed button for the modal pop up cart.
 
+Additional CRUD operations can be achieved simillar to the way get our proudcts (POST,PUT,UPDATE,DELETE)
+
 For the design we use flex classes in order the have responsive design.
